@@ -1,0 +1,11 @@
+{
+  "name": "pong-ew",
+  "version": "1.0.0",
+  "description": "A delightful take on Pong featuring Eddie and Will",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim",
+  "license": "ISC"
+}
