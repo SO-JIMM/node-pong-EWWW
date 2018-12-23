@@ -4,7 +4,7 @@
   "description": "A delightful take on Pong featuring Eddy and Will",
   "main": "index.js",
   "scripts": {
-    "start": "pong.html"
+    "start": "node pong.html"
   },
   "author": "Jim",
   "license": "ISC"
